@@ -1,9 +1,8 @@
 
 # koa-body-clean
 
-[![npm][npm]][npm-url]
 [![node][node]][node-url]
-[![npmd][npmd]][npmd-url]
+[![npm][npm]][npm-url]
 [![tests][tests]][tests-url]
 [![codecov][codecov]][codecov-url]
 [![deps][deps]][deps-url]
@@ -17,9 +16,6 @@
 
 [node]: https://img.shields.io/node/v/koa-body-clean.svg?style=flat
 [node-url]: https://nodejs.org
-
-[npmd]: https://img.shields.io/npm/dw/koa-body-clean.svg?style=flat
-[npmd-url]: https://www.npmjs.com/package/koa-body-clean
 
 [deps]: https://img.shields.io/david/rferro/koa-body-clean.svg?style=flat
 [deps-url]: https://david-dm.org/rferro/koa-body-clean
