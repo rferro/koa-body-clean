@@ -13,6 +13,6 @@ script:
   - npm run lint
   - npm run test
   - codecov
-  - coveralls
+  - cat ./coverage/lcov.info | coveralls
 
 sudo: false
