@@ -1,7 +1,7 @@
 {
   "name": "koa-body-clean",
   "version": "1.0.0",
-  "description": "",
+  "description": "Koa middleware for auto cleanup files created to disk by koa-body, koa-better-body, koa-multer or any multipart middleware that populate ctx.*.files",
   "keywords": [
     "body",
     "formidable",
