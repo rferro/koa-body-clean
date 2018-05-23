@@ -59,6 +59,9 @@
   "engines": {
     "node": ">=7.6.0"
   },
+  "files": [
+    "lib/index.js"
+  ],
   "standard": {
     "env": [
       "jest"
