@@ -32,6 +32,17 @@
     "test": "jest",
     "test:watch": "jest --watchAll"
   },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": [
+      "json",
+      "lcov",
+      "text",
+      "html"
+    ],
+    "notify": true,
+    "verbose": true
+  },
   "dependencies": {
     "debug": "^3.1.0"
   },
@@ -54,10 +65,5 @@
     ],
     "globals": [],
     "ignore": []
-  },
-  "jest": {
-    "collectCoverage": true,
-    "notify": true,
-    "verbose": true
   }
 }
